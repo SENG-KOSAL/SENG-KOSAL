@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Seng+Kosal;React+%7C+Next.js+%7C+Laravel;React+Native+%26+Flutter+Apps;Building+modern+web+%26+mobile+experiences" alt="Typing SVG" />
 </a>
 
-<img src="photo/kosal_photo.png" alt="Seng Kosal" width="180" style="border-radius:50%" />
+<!-- <img src="photo/kosal_photo.png" alt="Seng Kosal" width="180" style="border-radius:50%" /> -->
 
 <br/><br/>
 
