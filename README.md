@@ -9,9 +9,8 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SENG-KOSAL&label=Profile%20Views&color=00d4ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/SENG-KOSAL?style=for-the-badge&logo=github&color=2c5364)
 
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](your-live-demo-link)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)]([your-live-demo-link](https://portfolio-v2-cscm.vercel.app/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SENG-KOSAL)
 
 </div>
@@ -77,7 +76,7 @@ VPS Hosting (Linux server setup) · Basic security & environment config
 
 ## 📫 How to Reach Me
 
-- 🔗 **Portfolio:** [your-live-demo-link](your-live-demo-link)
+- 🔗 **Portfolio:** [https://portfolio-v2-cscm.vercel.app/](your-live-demo-link)
 - 🐙 **GitHub:** [SENG-KOSAL](https://github.com/SENG-KOSAL)
 
 <div align="center">
