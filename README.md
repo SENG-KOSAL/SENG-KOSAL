@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00d4ff&height=200&section=header&text=SENG%20KOSAL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=62&descSize=20" alt="Seng Kosal banner" />
-
-<img src="photo/kosal_photo.png" alt="Seng Kosal" width="160" height="160" style="border-radius:50%" />
 
 <br/>
 
