@@ -60,37 +60,6 @@ Linux · PM2 · VPS deployment · Git · GitHub · Xcode · Android Studio
 ### 🤖 AI & Development Tools
 ChatGPT · Claude · Gemini · MCP · ECC
 
-### 🌐 Languages
-English · Khmer
-
----
-
-## 💼 Experience
-
-### Full-Stack Developer
-- Built web apps using React.js, Next.js, TailwindCSS and Laravel
-- Developed and integrated REST APIs between frontend and backend systems
-- Implemented core business logic and authentication
-- Created backend APIs with Python and integrated them with mobile apps
-- Handled VPS deployment, Linux server setup and basic security
-- Worked on HR systems and provided technical consulting
-
-### Mobile Developer
-- Developed Android & iOS apps with Flutter, React Native, Kotlin and Swift
-- Integrated REST APIs with Next.js and Python backends
-- Built responsive UI/UX, authentication and role-based features
-- Used **Kotlin Multiplatform (KMP)** to share business logic and data models across Android and iOS
-- Handled testing, debugging, UAT, TestFlight and App Store releases
-
----
-
-## 📁 Projects
-
-- **HR Management System** — workflow-based system (employees, leave, approvals)
-- **Tour Management System**
-- **Mobile Apps** — Android & iOS
-
----
 
 ## 📊 GitHub Stats
 
