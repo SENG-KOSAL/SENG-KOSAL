@@ -19,49 +19,76 @@
 
 ## 🚀 About Me
 
-I am a **Full-Stack Developer** with hands-on experience building modern, responsive web and mobile applications.
+Motivated **Information Technology Engineering** student with hands-on experience in **full-stack web and mobile development**. Passionate about building scalable applications, solving problems, and continuously learning new things.
 
-- 🎨 Robust frontends with **React.js** & **Next.js**
-- 📱 Cross-platform mobile apps with **React Native** & **Flutter**, with offline-first capabilities (e.g., **WatermelonDB**)
-- ⚙️ Backend engineering with **Laravel**, **PHP** & **MySQL**
-- 🖥️ Server deployment: VPS, Linux, environment configuration, basic security
-- 👔 Enterprise solutions: **HR Management Systems** and **Microsoft Dynamics 365 Business Central** customization
+- 🎨 Web apps with **React.js**, **Next.js**, **TailwindCSS** & **Laravel**
+- 🔌 Developing and integrating **REST APIs**, core business logic, authentication & backend APIs (**Python**)
+- 📱 Mobile apps for **Android & iOS**, integrated with Next.js / Python backends
+- 🖥️ **VPS deployment**, Linux server setup & basic security
+- 👔 **HR systems** and technical consulting
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🎓 Education
 
-### 💻 Frontend & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" alt="frontend" />
-</p>
+**Royal University of Phnom Penh (RUPP)** — Bachelor's Degree in Information Technology Engineering · *2023 – 2026*
 
-React.js · Next.js · TailwindCSS · Modern CSS · HTML5 · Framer Motion · AOS
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" alt="frontend" /></p>
+
+Next.js · React.js · JavaScript · TypeScript · TailwindCSS
 
 ### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="mobile" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift,androidstudio,xcode" alt="mobile" /></p>
 
-React Native · Flutter · WatermelonDB (offline-first) · RESTful API integration
+Flutter · React Native · Kotlin · Swift · Kotlin Multiplatform (KMP)
 
 ### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java,cpp,python" alt="backend" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=laravel,php,python,nextjs,postgres,mysql" alt="backend" /></p>
 
-PHP · Laravel · Java · C++ · Python · MySQL (schema design & optimization)
+Laravel · Next.js · Python · REST APIs · PostgreSQL · Database management
 
-### 🚀 DevOps & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,nginx" alt="devops" />
-</p>
+### 🚀 Server & Tools
+<p><img src="https://skillicons.dev/icons?i=linux,git,github,pm2" alt="tools" /></p>
 
-VPS Hosting (Linux server setup) · Basic security & environment config
+Linux · PM2 · VPS deployment · Git · GitHub · Xcode · Android Studio
 
-### 👔 Business & ERP
-- HR Workflows (employees, leave, approvals)
-- Microsoft Dynamics 365 Business Central
+### 🤖 AI & Development Tools
+ChatGPT · Claude · Gemini · MCP · ECC
+
+### 🌐 Languages
+English · Khmer
+
+---
+
+## 💼 Experience
+
+### Full-Stack Developer
+- Built web apps using React.js, Next.js, TailwindCSS and Laravel
+- Developed and integrated REST APIs between frontend and backend systems
+- Implemented core business logic and authentication
+- Created backend APIs with Python and integrated them with mobile apps
+- Handled VPS deployment, Linux server setup and basic security
+- Worked on HR systems and provided technical consulting
+
+### Mobile Developer
+- Developed Android & iOS apps with Flutter, React Native, Kotlin and Swift
+- Integrated REST APIs with Next.js and Python backends
+- Built responsive UI/UX, authentication and role-based features
+- Used **Kotlin Multiplatform (KMP)** to share business logic and data models across Android and iOS
+- Handled testing, debugging, UAT, TestFlight and App Store releases
+
+---
+
+## 📁 Projects
+
+- **HR Management System** — workflow-based system (employees, leave, approvals)
+- **Tour Management System**
+- **Mobile Apps** — Android & iOS
 
 ---
 
@@ -76,7 +103,7 @@ VPS Hosting (Linux server setup) · Basic security & environment config
 
 ## 📫 How to Reach Me
 
-- 🔗 **Portfolio:** [https://portfolio-v2-cscm.vercel.app/](your-live-demo-link)
+- 🔗 **Portfolio:** [https://portfolio-v2-cscm.vercel.app/]
 - 🐙 **GitHub:** [SENG-KOSAL](https://github.com/SENG-KOSAL)
 
 <div align="center">
